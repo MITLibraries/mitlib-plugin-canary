@@ -1,16 +1,16 @@
 <?php
 /**
  * Plugin Name:   MITlib Plugin Canary
- * Plugin URI:    https://github.com/matt-bernhardt/plugin-canary
- * Description:   Detects plugins that have been removed from the Wordpress plugin directory
- * Version:       0.1.0
- * Author:        Matt Bernhardt
- * Author URI:    https://github.com/matt-bernhardt
+ * Plugin URI:    https://github.com/MITLibraries/mitlib-plugin-canary
+ * Description:   A WordPress plugin that detects when a site is using plugins that are not listed in the official directory.
+ * Version:       1.0.0
+ * Author:        MIT Libraries
+ * Author URI:    https://github.com/MITLibraries
  * Licence:       GPL2
  *
  * @package MITlib Plugin Canary
- * @author Matt Bernhardt
- * @link https://github.com/matt-bernhardt/plugin-canary
+ * @author MIT Libraries
+ * @link https://github.com/MITLibraries/mitlib-plugin-canary
  */
 
 namespace mitlib;
