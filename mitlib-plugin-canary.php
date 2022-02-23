@@ -3,7 +3,7 @@
  * Plugin Name:   MITlib Plugin Canary
  * Plugin URI:    https://github.com/MITLibraries/mitlib-plugin-canary
  * Description:   A WordPress plugin that detects when a site is using plugins that are not listed in the official directory.
- * Version:       1.0.0
+ * Version:       1.1.0
  * Author:        MIT Libraries
  * Author URI:    https://github.com/MITLibraries
  * Licence:       GPL2
